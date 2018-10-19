@@ -7,3 +7,5 @@ Het is een verhandeling over de diverse toepassingen van polarisatie alsook een 
 [dit](../Assets/ToepassingenVanPolarisatieInOptiek.pdf) is de thesis!
 
 ![Butters](../Pics/763.jpg)
+
+Dit is om te oefenen of de branch Oefenen in github verschijnt
