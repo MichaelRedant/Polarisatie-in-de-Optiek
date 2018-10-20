@@ -9,3 +9,5 @@ Het is een verhandeling over de diverse toepassingen van polarisatie alsook een 
 ![Butters](Pics/763.jpg)
 
 Dit is om te oefenen of de branch Oefenen in github verschijnt
+
+Deze is om te kijken voor een nieuwe ingave in de Master
