@@ -11,3 +11,5 @@ Het is een verhandeling over de diverse toepassingen van polarisatie alsook een 
 Dit is om te oefenen of de branch Oefenen in github verschijnt
 
 Deze is om te kijken voor een nieuwe ingave in de Master
+
+Dit is in de branch Bugfix, dit zou niet in de master moeten staan!
