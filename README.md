@@ -6,16 +6,4 @@ Het is een verhandeling over de diverse toepassingen van polarisatie alsook een 
 
 [Dit](Assets/ToepassingenVanPolarisatieInOptiek.pdf) is de thesis!
 
-![Butters](Pics/763.jpg)
-
-Dit is om te oefenen of de branch Oefenen in github verschijnt
-
-Deze is om te kijken voor een nieuwe ingave in de Master
-
-Dit is in de branch Bugfix, dit zou niet in de master moeten staan!
-
-## Nog een aanpassing in Bugfix ##
-
-![Gitjen](Pics/Gitjen.jpg)
-
-Stuur [hier](mailto:michael.redant2@telenet.be) je mail naartoe voor [GIT](http://www.github.com).
+Hebt u vragen? [Mail](mailto:michael.redant2@telenet.be) ze maar!
