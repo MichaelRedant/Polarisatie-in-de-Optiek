@@ -14,7 +14,7 @@ Deze is om te kijken voor een nieuwe ingave in de Master
 
 Dit is in de branch Bugfix, dit zou niet in de master moeten staan!
 
-## Nog een aanpassing in Bugfix
+## Nog een aanpassing in Bugfix ##
 
 ![Gitjen](Pics/Gitjen.jpg)
 
